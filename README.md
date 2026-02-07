@@ -21,3 +21,28 @@ The program asks the user to enter the following details:
 ## How the Calculation Works
 
 1. Electricity bill is calculated as:
+2. Total expense is calculated by adding:
+- Rent  
+- Food expense  
+- Electricity bill  
+3. The total amount is divided equally among all persons.
+
+---
+
+## Output
+The program displays:
+
+- **Amount each person has to pay**
+
+---
+
+## How to Run the Program
+
+1. Make sure Python is installed on your system.
+2. Download or clone this repository.
+3. Open terminal/command prompt in the project folder.
+4. Run the program using:
+
+```bash
+python Flat_Bill_Calculator.py
+
